@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: hsl(30, 49%, 79%);
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.principal-container{
+    height: 500px;
+    width: 600px;
+   display: flex;
+   background-color: aliceblue;
+  
+}
+
+img{
+    width: 300px;
+    height: 500px;
+}
+
+.info-produtos{
+   padding: 50px;
+}
+
+.categoria{
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: rgb(189, 186, 183);
+
+}
+
+.titulo{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
